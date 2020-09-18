@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.curso {
+  background-color: #ccc;
+  border: 1px solid #f0f0f0;
+  padding: 10px;
+  margin: 10px;
+}
+
+.curso.vermelho {
+  background: #ff0000;
+}
